@@ -2,8 +2,6 @@
 
 A simple weather app developed in Python's framework **'DJANGO'** that shows the weather in realtime and forecasts 3 days ahead all by making use of an API.
 
-> The base url for the [API](http://api.weatherapi.com/v1)
-
 ## API Reference
 
 **Base url** : http://api.weatherapi.com/v1
